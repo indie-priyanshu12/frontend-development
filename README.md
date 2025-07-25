@@ -49,8 +49,7 @@ _**Note:** This repository intentionally avoids external frameworks or libraries
 
 While this is primarily a personal learning space, I welcome feedback, suggestions, or discussions on learning resources!
 
-* **Email:** [Your Email Here]
-* **Portfolio/GitHub:** [Your Portfolio or GitHub Page Link Here]
+* **Email:** priyanshu.kp1203@gmail.com
 
 ---
 
