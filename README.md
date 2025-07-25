@@ -34,18 +34,6 @@ The core objectives behind this repository are to:
 * ✅ **Basic Web Applications:** Building functional, interactive single-page components.
 
 ---
-
-## 📌 Featured Mini-Projects
-
-| Project Name      | Description                                | Status / Focus                 |
-| :---------------- | :----------------------------------------- | :----------------------------- |
-| `form-validator`  | Real-time form input validation.           | Frontend Form Handling         |
-| `color-switcher`  | Dynamically change background colors.      | DOM Manipulation / Events      |
-| `todo-list`       | Add & remove tasks with basic JS logic.    | CRUD Operations (JS)           |
-| `responsive-site` | Layouts that adapt to different screen sizes. | CSS Responsiveness / Media Queries |
-
----
-
 ## ⚙️ Tools & Technologies Used
 
 * **HTML5:** For content structure.
